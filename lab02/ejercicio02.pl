@@ -13,9 +13,9 @@ siguiente_estado(
     estado(Villanos, Poderes, Energia), 
     estado(NuevosVillanos, Poderes, NuevaEnergia)
 ):-
-    member(villain(Nombre, Vida, Debilidades), Villanos),
-    member(power(Habilidad, Daño, Costo), Poderes),
-    member(Habilidad, Debilidades),
+    member(villain(Nombre, Vida, Debilidades), Villanos),  % ver que haya un villano
+    member(power(Habilidad, Daño, Costo), Poderes),		% ver que hay un poder
+    member(Habilidad, Debilidades),			 	% ver que la habilidad o poder esta en las debilidades
     Energia >= Costo,
     NuevaEnergia is Energia - Costo,
     NuevaVida is Vida - Daño,
