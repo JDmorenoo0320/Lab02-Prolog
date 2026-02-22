@@ -1,0 +1,27 @@
+Retrospectiva
+
+1. ¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? (Horas/Hombre)
+
+Aproximadamente 5 horas
+
+2. ¿Cuál es el estado actual del laboratorio? ¿Por qué?
+
+completo aunque el ultimo ejercicio no se cumplió de la manera que se esperaba.
+
+3. ¿Cuál consideran fue el mayor logro? ¿Por qué?
+
+el mayor logro fue entender mas DFS y lograr el ultimo punto a pesar de no ser la manera esperaba, lograr entender como funciona ese problema e intentar resolverlo de una manera distinta.
+
+4. ¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+
+el mayor problema técnico fue mas que todo el tiempo, ya que esta semana es de parciales entonces estuvo bastante ocupada
+
+5. ¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados
+
+fue solo el lab
+
+6. ¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
+
+https://es.slideshare.net/slideshow/final-36446743/36446743
+https://www.swi-prolog.org/pldoc/doc_for?object=manual
+https://chatgpt.com
