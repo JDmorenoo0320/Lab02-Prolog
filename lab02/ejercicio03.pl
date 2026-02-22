@@ -46,6 +46,7 @@ amenaza(_, _, []) :-
 % profe la verdad estaba denso, no me salio :(, me salia false AJAJJA en google busque y me ayudo una pagina
 % donde no usaba dfs pero es que no me salio, no me baje tanto plox 🤙🏻
 
+% ?- solucion(S).
 % S = [8, 4, 1, 3, 6, 2, 7, 5]
 % S = [8, 3, 1, 6, 2, 5, 7, 4]
 % S = [8, 2, 5, 3, 1, 7, 4, 6]
